@@ -14,3 +14,7 @@ This is the parent class of all classes that will be used in the AirBnB project,
 
 User class
 This represents user in the AirBnB clone project, which have attributes likw username, email, password, and other relevant information.
+
+State class
+
+This Class has attributes such as name, abbrwviation and further informationit will inherit drom a Base class and 	
