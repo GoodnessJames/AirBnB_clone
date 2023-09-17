@@ -10,3 +10,7 @@ Quick review
 BaseModel class
 
 This is the parent class of all classes that will be used in the AirBnB project, where all classes will inherit from, and  methods will be serialised and deserialised using the interface that this BaseModel class provides
+
+
+User class
+This represents user in the AirBnB clone project, which have attributes likw username, email, password, and other relevant information.
