@@ -17,4 +17,6 @@ This represents user in the AirBnB clone project, which have attributes likw use
 
 State class
 
-This Class has attributes such as name, abbrwviation and further informationit will inherit drom a Base class and likewise other class like city and place 	
+This Class has attributes such as name, abbrwviation and further informationit will inherit drom a Base class and likewise other class like city and place.
+
+Then we will create all unittesy to calidate all classea and storage engine 	
