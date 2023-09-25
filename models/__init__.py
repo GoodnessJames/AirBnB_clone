@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Magic method for models directory"""
+"""Magic method for models module"""
 from models.engine.file_storage import FileStorage
 
 
